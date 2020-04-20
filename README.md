@@ -1,0 +1,3 @@
+# minesweeper
+this is a turbo c mine sweeper game with graphics.
+This game is bit slow, so sorry for inconvenience...
